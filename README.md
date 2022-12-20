@@ -3,3 +3,5 @@
 - pkg install git
 - git clone https://github.com/eddicted/brt.git
 - bash smf.sh
+- Username : eddict
+- Password : 3dd1c7
